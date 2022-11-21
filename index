@@ -1,0 +1,27 @@
+<template>
+    <div class="row">
+        <div class="col-12 mb-12 text-end">
+        </div>
+        <div class="col-12">
+            <div class="card">
+               <div class="card-head">
+                    <h4>category</h4>
+               </div> 
+               <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered">
+                            <thead>
+                                <tr>
+                                    <th>ID</th>
+                                    <th>TITLE</th>
+                                    <th>DESCRIPTION</th>
+                                    <th>ACTIONS</th>
+                                </tr>
+                            </thead>
+                        </table>
+                    </div>
+               </div>
+            </div>
+        </div>
+    </div>
+</template>
